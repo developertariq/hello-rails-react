@@ -22,6 +22,7 @@
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
@@ -122,6 +123,11 @@ Give a ⭐️ if you like this project!
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- I would like to thank all code reviewers and coding partners for making this project better.
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
