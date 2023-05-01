@@ -9,8 +9,6 @@ const Greeting = () => {
   useEffect(() => {
     dispatch(getRandomGreeting());
   }, [dispatch]);
-  console.log(greeting)
-
   
   return (
     <div className='container'>
