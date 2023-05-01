@@ -5,12 +5,12 @@ import * as bootstrap from "bootstrap"
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-function App() {
-  return (<h1>Hello World!</h1>);
-}
+import App from './App'
 
 ReactDOM.render(
-  <App/>,
+  <React.StrictMode>    
+    <App />
+  </React.StrictMode>,
   document.getElementById('root'),
 );
+
